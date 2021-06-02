@@ -14,4 +14,4 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Amazon_AWS-005AF0?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AmazonAWS-005AF0?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp;
