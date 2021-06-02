@@ -6,7 +6,7 @@
 
 <br><br><br>
 
-<p allign="center">
+<p align="center">
 
 ### :computer: skills
 
