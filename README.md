@@ -6,13 +6,18 @@
 
 <br><br><br>
 
-<p align="center">
+
 
 ### :computer: skills
 
+
+<p align="center">
+  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring_Boot&logoColor=white"/>&nbsp;
+
+</p>
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/apache_tomcat-F8DC75?style=flat-square&logo=apache_tomcat&logoColor=white"/>&nbsp;
@@ -23,4 +28,3 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;
 
-  </p>
