@@ -14,5 +14,6 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon_AWS&logoColor=white">
-
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon_AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apache tomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
