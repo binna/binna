@@ -4,11 +4,12 @@
 
 ### 안녕하세요, 박빈나(shine) GitHub에 오신 것을 환영합니다👋
 
-<br><br><br>
-
+<br><br>
 
 
 ### :computer: skills
+
+<br>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp;
   
