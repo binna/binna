@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring_Boot&logoColor=white"/>&nbsp;
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon_AWS&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/apache_tomcat-F8DC75?style=flat-square&logo=apache_tomcat&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
