@@ -26,3 +26,11 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp;
   
 </p>
+
+### :office: career
+1. 2021.06.14 ~ 재직중 : 힐스테이션(주) 
+
+<br>
+
+### :mortar_board: Education
+* 한양사이버대학교(주전공 : 컴퓨터공학, 복수전공 : 해킹보안) 
