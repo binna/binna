@@ -7,7 +7,7 @@
 <br>
 
 
-### :computer: skills
+### :computer: skill
 
 <p align="center">
 
