@@ -37,7 +37,7 @@
 <br>
 
 ### :office: career
-1. 2021.06.14 ~ 재직중 : 힐스테이션(주), Back-end Developer
+1. 2021.06.14 ~ 2022.07.29 : ㈜힐스테이션, Back-end Developer
 
 <br>
 
