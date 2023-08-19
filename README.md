@@ -30,6 +30,7 @@
 ### :office: career
 1. 2021.06.14 ~ 2022.07.31 : ㈜힐스테이션, Back-end Developer
 2. 2022.08.01 ~ 2023.06.30 : ㈜스카이피플, Server Developer
+3. 2023.08.16 ~ 재직 중 : ㈜어뮤징파크, Server Developer
 
 <br>
 
