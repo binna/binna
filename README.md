@@ -1,13 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20and%20welcome%20to%20shine's%20GitHub👋%20&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinna&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 [![mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:every5116@naver.com)](mailto:every5116@naver.com)
 [![Blog Badge](http://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://shine94.tistory.com/)](https://shine94.tistory.com/)
 
-### 안녕하세요, 박빈나(shine) GitHub에 오신 것을 환영합니다👋
-
 <br>
 
 
-### :computer: skill
+### :computer: Skill
 
 <p align="center">
 
@@ -27,7 +27,7 @@
 
 <br>
 
-### :office: career
+### :office: Career
 1. 2021.06.14 ~ 2022.07.31 : ㈜힐스테이션, Back-end Developer
 2. 2022.08.01 ~ 2023.06.30 : ㈜스카이피플, Server Developer
 3. 2023.08.16 ~ 재직 중 : ㈜어뮤징파크, Server Developer
@@ -41,3 +41,11 @@
 
 ### 📝 Certificate
 1. 2021.06.02 정보처리기사
+
+<br><br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a>
