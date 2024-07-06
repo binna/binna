@@ -11,18 +11,26 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+**DB** <br>
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;
+**Admin Tool, Front-End** <br>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  
+
+**DevOps** <br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+
 </p>
 
 <br>
@@ -47,7 +55,7 @@
 ### ✏️ Study 공부
 * 2021.11.08 ~ 2021.12.18 : SQL/DB Essentials 1기, 프로그래머스
 * 2020.12.28 ~ 2021.04.03 : 라이징 프로그래머2, SeSAC
-* 2020.03.15 ~ 2020.08.06 : Java 프레임웍기반 풀스택 양성, 코리아IT아카데미학원
+* 2020.03.15 ~ 2020.08.06 : Java 프레임워크 기반 풀스택 양성, 코리아IT아카데미학원
 
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
