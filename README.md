@@ -36,8 +36,8 @@
 <br>
 
 ### :office: Career
-* 2023.08.16 ~ 2024.08.31 : ㈜어뮤징파크, Server Developer
-* 2022.08.01 ~ 2023.06.30 : ㈜스카이피플, Server Developer
+* 2023.08.16 ~ 2024.08.31 : ㈜어뮤징파크, Game Server Developer
+* 2022.08.01 ~ 2023.06.30 : ㈜스카이피플, Game Server Developer
 * 2021.06.14 ~ 2022.07.31 : ㈜힐스테이션, Back-end Developer
 
 <br>
