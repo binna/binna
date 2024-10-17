@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20and%20welcome%20to%20shine's%20GitHub👋%20&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbinna&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-[![mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:every5116@naver.com)](mailto:every5116@naver.com)
 [![Blog Badge](http://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://shine94.tistory.com/)](https://shine94.tistory.com/)
 
 <br>
