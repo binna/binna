@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello%20and%20welcome%20to%20shine's%20GitHub👋%20&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250)
 
-[![Blog Badge](http://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Blogger&logoColor=white&link=https://shine94.tistory.com/)](https://shine94.tistory.com/)
-
-<br>
-
-
 ### :computer: Skill
 
 <p align="center">
