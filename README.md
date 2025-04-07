@@ -51,8 +51,7 @@
 - 2020.12.28 ~ 2021.04.03 : 라이징 프로그래머2, SeSAC
 - 2020.03.15 ~ 2020.08.06 : Java 프레임워크 기반 풀스택 양성, 코리아IT아카데미학원
 
-<br><br><br><br>
-
+<br><br>
 ## ✍️ Tech Blog
 
 📝 기술 블로그에 공부 기록, 문제 해결 과정, 개발 노하우 등을 정리하고 있어요!
@@ -66,7 +65,7 @@
 - 실습과 프로젝트 중심의 학습을 즐깁니다  
 - 정리하고 기록하는 걸 좋아해 블로그도 운영 중입니다 📝
 
-<br><br>
+<br><br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
