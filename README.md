@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=fe8c00,ff2d55&height=200&section=header&text=Hello%20and%20welcome%20to%20shine's%20GitHub!👋&fontSize=30&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=200&section=header&text=Hello%20and%20welcome%20to%20shine's%20GitHub!👋&fontSize=30&fontAlignY=40" />
 
 
 ## :computer: Skill
