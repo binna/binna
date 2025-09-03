@@ -126,7 +126,7 @@
   | 인증/보안   | JWT, OAuth               |
 
 
-<br><br><br><br>
+<br><hr><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
