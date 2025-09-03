@@ -67,6 +67,22 @@
 - 어제보다 나은 개발자가 되는 것을 즐깁니다. 🌱  
 - 사람들과의 대화를 통해 문제를 해결하는 걸 좋아합니다. 💬
 
+<br>
+
+## 📌 Featured Projects
+
+### 🌿 Verdant Valor(2025.07.01 ~ 2025.08.29)
+[**📽️ 시연 영상 보기**](https://www.youtube.com/watch?v=jal_0tfmpjY)  
+[🔗 Repository 바로가기](https://github.com/binna/VerdantValor) 
+
+### 🐱 Meow Jump Game(2025.06.09 ~ 2025.06.26)
+[**📽️ 시연 영상 보기**](https://youtu.be/BIQlgI6KWB4)  
+[🔗 Repository 바로가기](https://github.com/binna/MeowJumpGame)
+
+### 📱 miliwili(2021.03.02 ~ 2021.04.03)
+[**📽️ 시연 영상 보기**](https://www.youtube.com/watch?v=QQCqkgfOb_8)  
+[🔗 Repository 바로가기](https://github.com/binna/miliwili)
+
 <br><br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
