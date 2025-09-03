@@ -72,16 +72,59 @@
 ## 📌 Featured Projects
 
 ### 🌿 Verdant Valor(2025.07.01 ~ 2025.08.29)
-[**📽️ 시연 영상 보기**](https://www.youtube.com/watch?v=jal_0tfmpjY)  
-[🔗 Repository 바로가기](https://github.com/binna/VerdantValor) 
+- **설명**  
+  2D 전투 RPG  
+  (상세 내용은 레포지토리 README 참고)
+
+- **시연 영상**  
+  🎥[YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
+  
+- **GitHub Repository**  
+  🔗[Verdant Valor](https://github.com/binna/VerdantValor)
+
+- **기술스택**
+  | 항목      | 기술                |
+  |-----------|---------------------|
+  | Engine    | Unity 6000.0.46f1   |
+  | Language  | C#                  |
 
 ### 🐱 Meow Jump Game(2025.06.09 ~ 2025.06.26)
-[**📽️ 시연 영상 보기**](https://youtu.be/BIQlgI6KWB4)  
-[🔗 Repository 바로가기](https://github.com/binna/MeowJumpGame)
+- **설명**  
+  고양이가 장애물을 피하고 츄르를 모으는 2D 점프 게임  
+  (상세 내용은 레포지토리 README 참고)
+
+- **시연 영상**  
+  🎥[YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
+  
+- **GitHub Repository**  
+  🔗[Meow Jump Game](https://github.com/binna/MeowJumpGame)
+
+- **기술스택**
+  | 항목      | 기술                |
+  |-----------|---------------------|
+  | Engine    | Unity 6000.0.46f1   |
+  | Language  | C#                  |
 
 ### 📱 miliwili(2021.03.02 ~ 2021.04.03)
-[**📽️ 시연 영상 보기**](https://www.youtube.com/watch?v=QQCqkgfOb_8)  
-[🔗 Repository 바로가기](https://github.com/binna/miliwili)
+- **설명**  
+  국군 장병들을 위한 자기관리 앱  
+  (상세 내용은 레포지토리 README 참고)
+
+- **시연 영상**  
+  🎥[YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)
+  
+- **GitHub Repository**  
+  🔗[Meow Jump Game](https://github.com/binna/miliwili)
+
+- **기술스택**
+  | 항목       | 기술                     |
+  |------------|--------------------------|
+  | Language   | Java                     |
+  | Framework  | Spring Boot, JPA         |
+  | Database   | MySQL                    |
+  | Infra      | AWS                      |
+  | 인증/보안   | JWT, OAuth               |
+
 
 <br><br><br><br>
 
