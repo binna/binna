@@ -114,7 +114,7 @@
   🎥[YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)
   
 - **GitHub Repository**  
-  🔗[Meow Jump Game](https://github.com/binna/miliwili)
+  🔗[Miliwili](https://github.com/binna/Miliwili)
 
 - **기술스택**
   | 항목       | 기술                     |
