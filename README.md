@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=200&section=header&text=Hello%20and%20welcome%20to%20shine's%20GitHub!👋&fontSize=30&fontAlignY=40" />
-
-
 ## :computer: Skill
 
 **Language / Backend**  
@@ -62,7 +59,7 @@
 
 ## 📌 Featured Projects
 
-### Verdant Valor (2025.07.01 ~ 2025.08.29)
+### 1. Verdant Valor (2025.07.01 ~ 2025.08.29)
 - **설명**  
   2D 전투 RPG  
   (상세 내용은 레포지토리 README 참고)
@@ -79,7 +76,7 @@
   | Engine    | Unity 6000.0.46f1   |
   | Language  | C#                  |
 
-### Meow Jump Game (2025.06.09 ~ 2025.06.26)
+### 2. Meow Jump Game (2025.06.09 ~ 2025.06.26)
 - **설명**  
   2D 캐주얼 게임  
   (상세 내용은 레포지토리 README 참고)
@@ -96,7 +93,7 @@
   | Engine    | Unity 6000.0.46f1   |
   | Language  | C#                  |
 
-### Miliwili (2021.03.02 ~ 2021.04.03)
+### 3. Miliwili (2021.03.02 ~ 2021.04.03)
 - **설명**  
   국군 장병들을 위한 자기관리 애플리케이션  
   (상세 내용은 레포지토리 README 참고)
