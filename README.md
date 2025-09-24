@@ -120,12 +120,18 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   
-  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
 
-  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  
+</div>
 
-  <img height=110 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
+<br>
+
+<div align="center">
+
+  <img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
   
 </div>
