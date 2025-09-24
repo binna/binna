@@ -122,10 +122,10 @@
 
 <div align="left">
   
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
 
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  <img height=110 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 
-  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
+  <img height=110 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
   
 </div>
