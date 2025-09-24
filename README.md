@@ -50,10 +50,10 @@
 
 <br>
 
-## ✍️ Tech Blog
+## 📝 Tech Blog
 
-📝 학습한 개념, 문제 해결 과정, 개발 관련 메모를 기술 블로그에 정리하고 있습니다. <br>
-👉 [블로그로 이동](https://shine94.tistory.com/)
+학습한 개념, 문제 해결 과정, 개발 관련 메모를 기술 블로그에 정리하고 있습니다. <br>
+[블로그로 이동](https://shine94.tistory.com/)
 
 <br>
 
@@ -65,10 +65,10 @@
   (상세 내용은 레포지토리 README 참고)
 
 - **시연 영상**  
-  🎥[YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
+  [YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
   
 - **GitHub Repository**  
-  🔗[Verdant Valor](https://github.com/binna/VerdantValor)
+  [Verdant Valor](https://github.com/binna/VerdantValor)
 
 - **기술스택**
   | 항목      | 기술                |
@@ -82,10 +82,10 @@
   (상세 내용은 레포지토리 README 참고)
 
 - **시연 영상**  
-  🎥[YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
+  [YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
   
 - **GitHub Repository**  
-  🔗[Meow Jump Game](https://github.com/binna/MeowJumpGame)
+  [Meow Jump Game](https://github.com/binna/MeowJumpGame)
 
 - **기술스택**
   | 항목      | 기술                |
@@ -99,10 +99,10 @@
   (상세 내용은 레포지토리 README 참고)
 
 - **시연 영상**  
-  🎥[YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)
+  [YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)
   
 - **GitHub Repository**  
-  🔗[Miliwili](https://github.com/binna/Miliwili)
+  [Miliwili](https://github.com/binna/Miliwili)
 
 - **기술스택**
   | 항목       | 기술                     |
