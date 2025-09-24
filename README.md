@@ -60,18 +60,9 @@
 
 <br>
 
-## 🌱 About Me
-
-- 게임 서버에 관심이 많고, 관련 개발을 즐깁니다. 🎮  
-- 정리하고 기록하는 걸 좋아해 블로그도 운영 중입니다. 📝  
-- 어제보다 나은 개발자가 되는 것을 즐깁니다. 🌱  
-- 사람들과의 대화를 통해 문제를 해결하는 걸 좋아합니다. 💬
-
-<br>
-
 ## 📌 Featured Projects
 
-### 🌿 Verdant Valor(2025.07.01 ~ 2025.08.29)
+### Verdant Valor (2025.07.01 ~ 2025.08.29)
 - **설명**  
   2D 전투 RPG  
   (상세 내용은 레포지토리 README 참고)
@@ -88,9 +79,9 @@
   | Engine    | Unity 6000.0.46f1   |
   | Language  | C#                  |
 
-### 🐱 Meow Jump Game(2025.06.09 ~ 2025.06.26)
+### Meow Jump Game (2025.06.09 ~ 2025.06.26)
 - **설명**  
-  고양이가 장애물을 피하고 츄르를 모으는 2D 점프 게임  
+  2D 캐주얼 게임  
   (상세 내용은 레포지토리 README 참고)
 
 - **시연 영상**  
@@ -105,7 +96,7 @@
   | Engine    | Unity 6000.0.46f1   |
   | Language  | C#                  |
 
-### 📱 Miliwili(2021.03.02 ~ 2021.04.03)
+### Miliwili (2021.03.02 ~ 2021.04.03)
 - **설명**  
   국군 장병들을 위한 자기관리 애플리케이션  
   (상세 내용은 레포지토리 README 참고)
@@ -126,11 +117,18 @@
   | 인증/보안   | JWT, OAuth               |
 
 
-<br><hr><br>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
-</a>
+<hr>
+
+<br>
+
+<div align="left">
+  
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight" />
+
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+
+  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
+  
+</div>
