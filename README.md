@@ -59,24 +59,27 @@
 
 ## 📌 Featured Projects
 
-### 1. Verdant Valor (2025.07.01 ~ 2025.08.29)
+### 1. Verdant Valor
+- **기간**  
+  클라이언트: 2025.07.01 ~ 2025.08.29  
+  서버: 2025.10.18 ~ 진행 중  
+
 - **설명**  
   2D 전투 RPG  
   (상세 내용은 레포지토리 README 참고)
 
 - **시연 영상**  
-  [YouTube로 가기](https://www.youtube.com/watch?v=jal_0tfmpjY)
+  [YouTube로 가기(서버 반영 전)](https://www.youtube.com/watch?v=jal_0tfmpjY)
   
 - **GitHub Repository**  
-  [Verdant Valor](https://github.com/binna/VerdantValor)
+  [VerdantValor_Client](https://github.com/binna/VerdantValor_Client)
+  [VerdantValor_Server](https://github.com/binna/VerdantValor_Server)
+  [VerdantValor_Shared](https://github.com/binna/VerdantValor_Shared)
 
-- **기술스택**
-  | 항목      | 기술                |
-  |-----------|---------------------|
-  | Engine    | Unity 6000.0.46f1   |
-  | Language  | C#                  |
-
-### 2. Meow Jump Game (2025.06.09 ~ 2025.06.26)
+### 2. Meow Jump Game 
+- **기간**  
+  2025.06.09 ~ 2025.06.26  
+  
 - **설명**  
   2D 캐주얼 게임  
   (상세 내용은 레포지토리 README 참고)
@@ -87,13 +90,11 @@
 - **GitHub Repository**  
   [Meow Jump Game](https://github.com/binna/MeowJumpGame)
 
-- **기술스택**
-  | 항목      | 기술                |
-  |-----------|---------------------|
-  | Engine    | Unity 6000.0.46f1   |
-  | Language  | C#                  |
 
-### 3. Miliwili (2021.03.02 ~ 2021.04.03)
+### 3. Miliwili
+- **기간**  
+  2021.03.02 ~ 2021.04.03  
+  
 - **설명**  
   국군 장병들을 위한 자기관리 애플리케이션  
   (상세 내용은 레포지토리 README 참고)
@@ -104,20 +105,8 @@
 - **GitHub Repository**  
   [Miliwili](https://github.com/binna/Miliwili)
 
-- **기술스택**
-  | 항목       | 기술                     |
-  |------------|--------------------------|
-  | Language   | Java                     |
-  | Framework  | Spring Boot, JPA         |
-  | Database   | MySQL                    |
-  | Infra      | AWS                      |
-  | 인증/보안   | JWT, OAuth               |
-
-
 <br>
-
 <hr>
-
 <br>
 
 <div align="center">
