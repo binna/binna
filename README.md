@@ -75,6 +75,7 @@
   [VerdantValor_Client](https://github.com/binna/VerdantValor_Client)   
   [VerdantValor_Server](https://github.com/binna/VerdantValor_Server)   
   [VerdantValor_Shared](https://github.com/binna/VerdantValor_Shared)
+  [VerdantValor_DevelopmentBoard](https://github.com/users/binna/projects/1)
 
 <br>
 
