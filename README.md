@@ -66,15 +66,17 @@
 
 - **설명**  
   2D 전투 RPG  
-  (상세 내용은 레포지토리 README 참고)
+  (상세 내용은 레포지토리 README 참고)  
 
 - **시연 영상**  
-  [YouTube로 가기(서버 반영 전)](https://www.youtube.com/watch?v=jal_0tfmpjY)
+  [YouTube로 가기(서버 반영 전)](https://www.youtube.com/watch?v=jal_0tfmpjY)  
   
 - **GitHub Repository**  
-  [VerdantValor_Client](https://github.com/binna/VerdantValor_Client)
-  [VerdantValor_Server](https://github.com/binna/VerdantValor_Server)
+  [VerdantValor_Client](https://github.com/binna/VerdantValor_Client)   
+  [VerdantValor_Server](https://github.com/binna/VerdantValor_Server)   
   [VerdantValor_Shared](https://github.com/binna/VerdantValor_Shared)
+
+<br>
 
 ### 2. Meow Jump Game 
 - **기간**  
@@ -82,14 +84,15 @@
   
 - **설명**  
   2D 캐주얼 게임  
-  (상세 내용은 레포지토리 README 참고)
+  (상세 내용은 레포지토리 README 참고)  
 
 - **시연 영상**  
-  [YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)
+  [YouTube로 가기](https://www.youtube.com/watch?v=BIQlgI6KWB4)  
   
 - **GitHub Repository**  
-  [Meow Jump Game](https://github.com/binna/MeowJumpGame)
+  [Meow Jump Game](https://github.com/binna/MeowJumpGame)  
 
+<br>
 
 ### 3. Miliwili
 - **기간**  
@@ -97,13 +100,13 @@
   
 - **설명**  
   국군 장병들을 위한 자기관리 애플리케이션  
-  (상세 내용은 레포지토리 README 참고)
+  (상세 내용은 레포지토리 README 참고)  
 
 - **시연 영상**  
-  [YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)
+  [YouTube로 가기](https://www.youtube.com/watch?v=QQCqkgfOb_8)  
   
 - **GitHub Repository**  
-  [Miliwili](https://github.com/binna/Miliwili)
+  [Miliwili](https://github.com/binna/Miliwili)  
 
 <br>
 <hr>
