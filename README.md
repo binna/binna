@@ -57,7 +57,7 @@
 
 <br>
 
-## 📌 Featured Projects
+## 📌 Personal Projects
 
 ### 1. Verdant Valor
 - **기간**  
@@ -69,7 +69,7 @@
   (상세 내용은 레포지토리 README 참고)  
 
 - **시연 영상**  
-  [YouTube로 가기(서버 반영 전)](https://www.youtube.com/watch?v=jal_0tfmpjY)  
+  [YouTube로 가기 (서버 반영 전)](https://www.youtube.com/watch?v=jal_0tfmpjY)  
   
 - **GitHub Repository**  
   [VerdantValor_Client](https://github.com/binna/VerdantValor_Client)   
