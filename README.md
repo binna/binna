@@ -113,20 +113,14 @@
 <hr>
 <br>
 
-<div align="center">
-  
-  <img height=200 
-    src="https://github-readme-stats.vercel.app/api?username=binna&show_icons=true&theme=tokyonight&cache_seconds=21600" />
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binna&show_icons=true&theme=tokyonight&cache_seconds=21600" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&cache_seconds=21600" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" /></td>
+  </tr>
+</table>
 
-  <img height=200 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=binna&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight&cache_seconds=21600" />
-  
-</div>
-
-<br>
-
-<div align="center">
-
-  <img height=200 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" />
-  
 </div>
