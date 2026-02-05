@@ -116,7 +116,7 @@
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=binna&show_icons=true&theme=tokyonight&cache_seconds=21600" /></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=binna&langs_count=8&count_private=true&include_all_commits=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=binna&langs_count=8&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=21600" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=binna94" /></td>
